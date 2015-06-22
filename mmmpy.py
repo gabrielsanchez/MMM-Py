@@ -1779,6 +1779,13 @@ def _are_equal(num1, num2):
     else:
         return False
 
+      
+def _this_is_a_test():
+   return True
+  
+  
+def _this_is_a_test2():
+   return True
 ###################################################
 
 ###################################################
